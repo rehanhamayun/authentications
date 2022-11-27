@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066252784860",
+    "project_id": "sidechef1",
+    "storage_bucket": "sidechef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066252784860:android:a3f2710e22a134e941d019",
+        "android_client_info": {
+          "package_name": "com.example.sidechef1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066252784860-fi4hmg5g4uelghs8g0rffskq6j0pot9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbKhtWfw5eJS38xGsurKRguF9sh8Hi_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066252784860-fi4hmg5g4uelghs8g0rffskq6j0pot9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066252784860-stqia7h42vcvipet03laifpg6sm7k2ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sidechef1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
